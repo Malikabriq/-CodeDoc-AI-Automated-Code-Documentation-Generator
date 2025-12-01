@@ -1,4 +1,3 @@
-# Task Manager API 🚀
 # CodeDoc AI 🚀
 
 **Automated Code Documentation Generator for Developers**
