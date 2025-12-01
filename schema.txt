@@ -1,0 +1,28 @@
+{
+  "Get Pull Request": {
+    "description": "Schema for operations that require a PR number as input.",
+    "properties": {
+      "pr_number": {
+        "default": 0,
+        "description": "The PR number as an integer, e.g. `12`",
+        "title": "Pr Number",
+        "type": "integer"
+      }
+    },
+    "title": "GetPR",
+    "type": "object"
+  },
+  "List Pull Requests' Files": {
+    "description": "Schema for operations that require a PR number as input.",
+    "properties": {
+      "pr_number": {
+        "default": 0,
+        "description": "The PR number as an integer, e.g. `12`",
+        "title": "Pr Number",
+        "type": "integer"
+      }
+    },
+    "title": "GetPR",
+    "type": "object"
+  }
+}
